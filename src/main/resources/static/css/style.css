@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+
+.box{
+	width:1000px;
+	display:flex;
+	justify-content: center;
+	margin:30px auto;
+	
+}
+
+.box1{
+	justify-content: center;
+	margin: 20px auto;
+	display: flex;
+}
+
+.box3{
+	display: flex;
+	justify-content: center;
+	width: 300px;
+	margin: 30px auto;
+}
+
+.box4{
+	justify-content: center;
+	margin: 20px auto;
+	display: flex;
+}
